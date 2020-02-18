@@ -1,0 +1,14 @@
+/* Tyler Pache --> */
+/* 2/27/2019 */
+/* ISTE 240 Exercise5 - CSS */
+
+body {
+    margin-left: 2em;
+    font-family: sans-serif;
+    background-color: antiquewhite;
+}
+
+hr {
+    border: 5px solid black;
+    border-radius: 10px;
+}
